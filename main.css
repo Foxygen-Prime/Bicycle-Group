@@ -1,6 +1,28 @@
+/*Fonts Added by Courtney
+font-family: 'Bungee', cursive;
+font-family: 'Bungee Shade', cursive;
+font-family: 'Josefin Sans', sans-serif;*/
+
+
 body{
   max-width: 480px;
 }
+
+.headerCourt{
+    background-color: #e9b3f2;
+
+
+}
+
+.logoCourt{
+
+}
+
+.paraCourt{
+
+}
+
+
 img{
   width:350px;
 }
