@@ -1,10 +1,13 @@
-.swipePhotos{
-    overflow:auto;
-    white-space:nowrap;
+.slide-container {
+  overflow: auto;
+  white-space: nowrap;
 }
-div{
-  width: 800px;
+
+
+body{
+  max-width: 400px
 }
+
 img{
-  width:30%
+  width:350px;
 }
