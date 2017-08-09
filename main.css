@@ -24,7 +24,17 @@ body{
 
 
 img{
-  width:350px;
+  width:450px;
+  height: 300px;
+}
+.img1{
+  padding: 0 15px;
+}
+.img2{
+  padding-right: 15px;
+}
+.img3{
+  padding-right: 15px;
 }
 .slide-container {
   overflow: auto;
