@@ -1,10 +1,64 @@
+/*Fonts Added by Courtney
+font-family: 'Bungee', cursive;
+font-family: 'Bungee Shade', cursive;
+font-family: 'Josefin Sans', sans-serif;*/
+
+
 body{
   max-width: 480px;
+  font-family: 'Josefin Sans';
+  /*background-color: #ebdced;*/
+}
+
+.headerCourt{
+    background-color: #e9b3f2;
+    font-family: 'Bungee Shade';
+    text-decoration: underline;
+    font-size: 2.75em;
+    text-align: center;
+    color: #f9f9ea;
+}
+
+.logoCourt{
+
+}
+.paraCourt p{
+  padding: 15px;
+  margin: auto;
+}
+.paraCourt{
+  font-family: 'Josefin Sans';
+  text-align: center;
+  background-color: #ebdced;
+}
+.colt{
+  background-color: #ebdced;
+}
+.about{
+text-align: center;
+background-color: #ebdced;
+}
+.about p{
+  padding: 15px;
+  margin: auto;
 }
 img{
-  width:350px;
+  width:450px;
+  height: 300px;
+  padding-top: 15px;
+}
+.img1{
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.img2{
+  padding-right: 15px;
+}
+.img3{
+  padding-right: 15px;
 }
 .slide-container {
+background-color: #ebdced;
   overflow: auto;
   white-space: nowrap;
 }
@@ -13,7 +67,7 @@ img{
   justify-content: center;
   flex-direction: column;
   text-align: center;
-  background-color: #f4f4ed;
+  background-color: #ebdced;
 }
 .number{
   font-weight: bold;
