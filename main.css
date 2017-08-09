@@ -92,6 +92,11 @@ footer{
   text-align: center;
 }
 
+@media only screen and (min-width : 480px){
+  body {
+    max-width:100%;
+  }
+}
 @media only screen and (min-width : 965px){
   body {
     max-width:100%;
