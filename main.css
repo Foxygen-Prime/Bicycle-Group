@@ -1,13 +1,30 @@
+body{
+  max-width: 480px;
+}
+img{
+  width:350px;
+}
 .slide-container {
   overflow: auto;
   white-space: nowrap;
 }
-
-
-body{
-  max-width: 480px
+.contactInfo{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  background-color: #f4f4ed;
+}
+.number{
+  font-weight: bold;
 }
 
-img{
-  width:350px;
+.email{
+  font-weight: bold;
+}
+
+footer{
+  background-color: #e9b3f2;
+  color: #f9f9ea;
+  text-align: center;
 }
