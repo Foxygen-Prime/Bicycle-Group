@@ -1,0 +1,10 @@
+.swipePhotos{
+    overflow:auto;
+    white-space:nowrap;
+}
+div{
+  width: 800px;
+}
+img{
+  width:30%
+}
