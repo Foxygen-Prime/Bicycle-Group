@@ -22,23 +22,23 @@ body {
     color: #f9f9ea;
     padding: 60px 5px 60px 5px;
 }
-
-<<<<<<< HEAD .headerCourt h1 {
+ .headerCourt h1 {
     margin: auto;
     padding-bottom: 15px;
 }
 
 .logoCourt img {
     height: 250px;
-    width: 250px;
-    =======.headerCourt h1 {
+    width: 250px;}
+
+  .headerCourt h1 {
         margin: auto;
         padding-top: 35px;
     }
     .logoCourt img {
         height: 250px;
         width: 250px;
-        >>>>>>>14043c19ccdc29d793c08a64123886232e1cb0e2
+
     }
     .paraCourt p {
         padding: 15px;
