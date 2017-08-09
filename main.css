@@ -19,8 +19,15 @@ body{
     text-align: center;
     color: #f9f9ea;
 }
+.headerCourt h1{
+  margin:auto;
+  padding-bottom: 15px;
+}
 
-.logoCourt{
+
+.logoCourt img {
+height: 250px;
+width: 250px;
 
 }
 .paraCourt p{
