@@ -2,8 +2,9 @@
 font-family: 'Bungee', cursive;
 font-family: 'Bungee Shade', cursive;
 font-family: 'Josefin Sans', sans-serif;*/
-
-
+html{
+  margin:
+}
 body{
   max-width: 480px;
   font-family: 'Josefin Sans';
@@ -88,4 +89,16 @@ footer{
   background-color: #e9b3f2;
   color: #f9f9ea;
   text-align: center;
+}
+
+@media only screen and (min-width : 965px){
+  body {
+    max-width:100%;
+  }
+img{
+width:30%
+}
+.img3{
+  width: 31%
+}
 }
