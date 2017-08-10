@@ -10,11 +10,7 @@ html {
 body {
     max-width: 480px;
     font-family: 'Josefin Sans';
-    background-color: #ebdced;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    /*background-color: #ebdced;*/
 }
 
 .headerCourt {
@@ -23,7 +19,7 @@ body {
     text-decoration: underline;
     font-size: 2.75em;
     text-align: center;
-    color: #f9f9ea;
+    color: black;
     padding: 60px 5px 60px 5px;
 }
  .headerCourt h1 {
@@ -43,14 +39,6 @@ body {
         height: 250px;
         width: 250px;
 
-    }
-    #map{
-      width:400px;
-      height:400px;
-      display: flex;
-      justify-content: center;
-      text-align: center;
-      background-color: #ebdced;
     }
     .paraCourt p {
         padding: 15px;
@@ -95,6 +83,7 @@ body {
     .contactInfo {
         display: flex;
         justify-content: center;
+        align-items: center;
         flex-direction: column;
         text-align: center;
         background-color: #ebdced;
@@ -110,6 +99,11 @@ body {
         color: #f9f9ea;
         text-align: center;
     }
+
+    #map {
+        height: 400px;
+        width: 400px;
+       }
     @media only screen and (min-width: 480px) {
         body {
             max-width: 100%;
