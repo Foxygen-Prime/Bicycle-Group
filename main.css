@@ -10,7 +10,11 @@ html {
 body {
     max-width: 480px;
     font-family: 'Josefin Sans';
-    /*background-color: #ebdced;*/
+    background-color: #ebdced;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .headerCourt {
@@ -39,6 +43,14 @@ body {
         height: 250px;
         width: 250px;
 
+    }
+    #map{
+      width:400px;
+      height:400px;
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      background-color: #ebdced;
     }
     .paraCourt p {
         padding: 15px;
